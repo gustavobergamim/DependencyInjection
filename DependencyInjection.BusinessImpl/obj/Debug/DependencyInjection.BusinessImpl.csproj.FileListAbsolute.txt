@@ -1,0 +1,11 @@
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.BusinessImpl.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.BusinessImpl.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.Business.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.Entities.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.Repository.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.Business.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.Entities.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\bin\Debug\DependencyInjection.Repository.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\obj\Debug\DependencyInjection.BusinessImpl.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.BusinessImpl\obj\Debug\DependencyInjection.BusinessImpl.pdb

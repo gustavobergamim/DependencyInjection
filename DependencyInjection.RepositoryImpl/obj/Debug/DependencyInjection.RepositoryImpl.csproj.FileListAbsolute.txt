@@ -1,0 +1,9 @@
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\bin\Debug\DependencyInjection.RepositoryImpl.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\bin\Debug\DependencyInjection.RepositoryImpl.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\bin\Debug\DependencyInjection.Entities.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\bin\Debug\DependencyInjection.Repository.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\bin\Debug\DependencyInjection.Entities.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\bin\Debug\DependencyInjection.Repository.pdb
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\obj\Debug\DependencyInjection.RepositoryImpl.dll
+C:\Users\gustavo.bergamim\Documents\Visual Studio 2010\Projects\DependencyInjection\DependencyInjection.RepositoryImpl\obj\Debug\DependencyInjection.RepositoryImpl.pdb

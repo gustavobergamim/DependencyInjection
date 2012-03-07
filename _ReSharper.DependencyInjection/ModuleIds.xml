@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="84898DA3-99BD-4679-880A-7986D5A0D72D" ModuleId="DependencyInjection.Business" />
+  <Module PersistentId="5B683B7D-E199-49DF-9A95-2A085F78334E" ModuleId="DependencyInjection.BusinessImpl" />
+  <Module PersistentId="F227D6F9-FC43-477D-9B9C-7D83120A522C" ModuleId="DependencyInjection.Repository" />
+  <Module PersistentId="ECF39690-40DA-44A8-A578-35A6E8A72B93" ModuleId="DependencyInjection.RepositoryImpl" />
+  <Module PersistentId="94D76B53-C957-4669-9C5B-CE86A4A94CCE" ModuleId="DependencyInjection.Entities" />
+  <Module PersistentId="59B6ED71-4427-465B-8FED-F38CD144ACE5" ModuleId="DependencyInjection.Presentation" />
+</Modules>
